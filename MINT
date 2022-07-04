@@ -1,0 +1,6 @@
+    <script>
+        window.ownerId = "3UVEyBLUTJikcBEPm8BjWconWNipYUKW4TXC9krX4w4q"
+        window.collectionId = "avhhWN2VF3K8KrQw4sGO"
+    </script>
+    <script type="module" src="https://storage.googleapis.com/scriptslmt/0.1.3/solana.js"></script>
+    <link rel="stylesheet" href="https://storage.googleapis.com/scriptslmt/0.1.3/solana.css">
